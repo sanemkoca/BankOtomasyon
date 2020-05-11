@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOtomasyon", "BankOtomasyon\BankOtomasyon.csproj", "{040A7A82-FFB2-4A77-81D8-57DC76135594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040A7A82-FFB2-4A77-81D8-57DC76135594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040A7A82-FFB2-4A77-81D8-57DC76135594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040A7A82-FFB2-4A77-81D8-57DC76135594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040A7A82-FFB2-4A77-81D8-57DC76135594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03CE05C9-2D64-4022-AD14-E97A4FA296D5}
+	EndGlobalSection
+EndGlobal
